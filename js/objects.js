@@ -51,10 +51,10 @@
 // }
 
 // console.log(user.showFriends())
-const login = prompt("Введіть логін")
-const password = prompt("Введіть логін")
-const student = {
-    login: login,
-    password: password
-}
-console.log(student)
+// const login = prompt("Введіть логін")
+// const password = prompt("Введіть логін")
+// const student = {
+//     login: login,
+//     password: password
+// }
+// console.log(student)
