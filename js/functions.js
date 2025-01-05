@@ -145,4 +145,3 @@
 //     return filterBirds
 // }
 // console.log(findFilteredBirds(birds))
-
