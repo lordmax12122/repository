@@ -1,0 +1,25 @@
+{
+  "name": "repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/node.js",
+    "math": "2 + 3 = 5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordmax12122/repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordmax12122/repository/issues"
+  },
+  "homepage": "https://github.com/lordmax12122/repository#readme",
+  "dependencies": {
+    "sass": "^1.86.3"
+  }
+}
